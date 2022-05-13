@@ -43,11 +43,11 @@ Nesse projeto foi recriado a interface do principal site de streaming mundial ut
 - Executar o Seguinte comando no seu **Terminal** ou no **CMD**:
 
 ```bash
-        git clone: https://github.com/juanaee/Clone-Netflix-Faculdade-.git
+        git clone: https://github.com/juanaee/Clone-Netflix-Faculdade.git
 
 
 ```
 
-       Link na Url: 
+       Link na Url: https://juanaee.github.io/Clone-Netflix-Faculdade/
 
 ---
